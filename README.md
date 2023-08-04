@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
-<h3 align="center">An ardent developer interested in Blockchain Technology, Fukkstack Web Development and Software Development.</h3>
+<h3 align="center">An ardent developer interested in Blockchain Technology, Fullstack Web Development and Software Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhh23&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhh23" /> </p>
 
