@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mocha](https://mocha-pink.vercel.app/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **rish23.tech@gmail.com**
 
