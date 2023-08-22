@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhh23&show_icons=true&locale=en&layout=compact" alt="rishabhh23" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhh23&show_icons=true&locale=en" alt="rishabhh23" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhh23&show_icons=true&locale=en" alt="rishabhh23" /></p> 
