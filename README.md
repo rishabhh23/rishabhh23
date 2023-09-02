@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhh23&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhh23" /> </p>
 
-- 🔭 I’m currently working on [Mocha](https://mocha-pink.vercel.app/)
+<!--- 🔭 I’m currently working on [Mocha](https://mocha-pink.vercel.app/)-->
 
 - 🌱 I’m currently learning **Backend Development**
 
